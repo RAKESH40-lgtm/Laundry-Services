@@ -1,0 +1,182 @@
+#header
+{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: nowrap; */
+    /* align-content: space-between; */
+    justify-content: space-between;
+    
+}
+#home
+{
+    margin-left: 600px;
+}
+#Laundry
+{
+margin-left: 100px;    
+font: normal normal 900 30px/27px Avenir;
+letter-spacing: 1.8px;
+color: #5861AE;
+text-transform: uppercase;
+opacity: 1;
+}
+#home
+{
+    text-align: center;
+    font: normal normal normal 20px/19px Avenir;
+    letter-spacing: 1.05px;
+    color: #565657;
+    text-transform: capitalize;
+    opacity: 1;
+}
+#pricing
+{
+    text-align: center;
+    font: normal normal normal 20px/19px Avenir;
+    letter-spacing: 1.05px;
+    color: #565657;
+    text-transform: capitalize;
+    opacity: 1;
+}
+#career
+{
+text-align: center;
+font: normal normal normal 20px/19px Avenir;
+letter-spacing: 1.05px;
+color: #565657;
+text-transform: capitalize;
+opacity: 1;
+}
+#signin
+{
+    font: normal normal medium 16px/22px Avenir;
+    letter-spacing: 1.2px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+    background-color: #5861AE;
+    padding: 8px;
+}
+#laun
+{
+ margin-top: 200px;
+ margin-left: 142px;
+ width: 411px;
+ height: 257px;
+}
+#left
+{
+text-align: left;
+font: normal normal 900 100px/120px Avenir;
+letter-spacing: 0px;
+color: #5861AE;
+text-transform: capitalize;
+opacity: 1;
+}
+
+div#divide {
+    display: flex;
+    flex-direction: row;
+}
+#text
+{
+    margin-top: 501px;
+    margin-right: 451px;
+    width: 335px;
+    height: 27px;
+}
+#door
+{
+text-align: left;
+margin-left: -405px;         
+font: normal normal normal 20px/26px Avenir;
+letter-spacing: 0.8px;
+color: #565657;
+text-transform: capitalize;
+opacity: 1;
+}
+#login
+{
+    margin-top: 240px;
+    margin-left: -500px;
+    font-size: 30px;
+    font: normal normal medium 32px/60px Avenir;
+    letter-spacing: 1.28px;
+    color: #4552C1;
+    text-transform: uppercase;
+    opacity: 1;
+}
+#form
+{
+    margin-top: 300px;
+    margin-left: -120px;
+}
+#email
+{ 
+    border:none;
+    border-bottom: 2px solid rgb(184, 182, 182);
+    width: 300px;
+}
+#password
+{ 
+    border:none;
+    border-bottom: 2px solid rgb(184, 182, 182);
+    width: 300px;
+}
+#lock
+{
+    margin-left: -15px;
+}
+#lef
+{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 150px;
+}
+#account
+{
+text-align: left;
+font: normal normal normal 16px/26px Avenir;
+letter-spacing: 0.64px;
+color: #565657;
+text-transform: capitalize;
+opacity: 1;
+}
+#btn
+{
+    position: absolute;
+    margin-top: 640px;
+    margin-left: 180px;
+}
+#but
+{
+    font: normal normal bold 15px/20px Open Sans;
+letter-spacing: 0.3px;
+color: #4552C1;
+opacity: 1;
+}
+hr{
+    margin-top: 150px;
+    border: 1px solid #5861AE;
+}
+#refer
+{
+margin-left: 500px;
+font: normal normal 600 24px/26px Open Sans;
+letter-spacing: 0.96px;
+color: #5861AE;
+opacity: 1;
+}
+#terms
+{
+margin-left: 650px;    
+font: italic normal normal 10px/26px Open Sans;
+letter-spacing: 0.4px;
+color: #3D3D43;
+opacity: 1;
+}
+div#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

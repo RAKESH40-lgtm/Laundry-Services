@@ -1,0 +1,16 @@
+.footer {
+    width: 100%;
+    height: 5.5vh;
+    background-color: #182838;
+    color: white;
+    margin-bottom: 0;
+}
+
+.footer div {
+    text-align: center;
+    font: Avenir;
+    letter-spacing: 0.12px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding-top: 6px;
+}

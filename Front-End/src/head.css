@@ -1,0 +1,45 @@
+.heading {
+    width: inherit;
+    height: 9vh;
+    border: 1px solid #0000000F;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    height: inherit;
+}
+
+li {
+    height: inherit;
+    float: right;
+}
+
+li a {
+    display: block;
+    text-decoration: none;
+    padding: 24px 24px 23px 24px;
+    border-left: 1px solid #E3E3E3;
+}
+
+#laundry {
+    display: block;
+    float: left;
+    font: normal normal 900 20px/27px Avenir;
+    letter-spacing: 1.8px;
+    color: #5861AE;
+    text-transform: uppercase;
+    opacity: 1;
+    padding: 20px 20px 20px 45px;
+    height: auto;
+}
+
+#username {
+    text-align: center;
+    font: normal normal medium 16px/22px Avenir;
+    letter-spacing: 1.2px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+    background-color: #5861AE;
+}

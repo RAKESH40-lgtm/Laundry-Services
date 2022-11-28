@@ -1,0 +1,201 @@
+.modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+}
+
+.modal-content {
+    width: 50%;
+    margin-left: 50%;
+    opacity: 1;
+}
+
+.modal-header {
+    height: 18vh;
+}
+
+.modal-title {
+    background-color: #5861AE;
+    color: #FFFFFF;
+    height: 8vh;
+}
+
+.modal-title span {
+    float: left;
+    padding: 17px 0 18px 25px;
+    font-size: large;
+}
+
+.modal-title button {
+    float: right;
+    padding: 7px;
+    margin: 15px 15px 7px 0;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #5861AE;
+    border: 1px solid #5861AE;
+    font-size: large;
+}
+
+.modal-nav {
+    height: 10vh;
+    background-color: #F4F9FF;
+    color: black;
+}
+
+.modal-nav .p1 {
+    margin: 0;
+    padding: 20px 0 0 40px;
+    float: left;
+}
+
+.modal-nav .p2 {
+    margin: 0;
+    padding: 15px 0 0 40px;
+    float: left;
+}
+
+.modal-nav b {
+    padding-right: 125px;
+}
+
+.modal-nav p span {
+    padding: 0 100px 0 0;
+    float: left;
+}
+
+.modal-body {
+    height: 77vh;
+    background-color: #FFFFFF;
+}
+
+.div-contentBody h3 {
+    text-align: left;
+    color: #3B3737;
+    padding-left: 20px;
+}
+
+.wholeProduct {
+    border-bottom: 1px solid #E2E2E2;
+    height: 4vh;
+}
+
+.wholeProduct .productType {
+    font: normal normal normal 18px/24px Open Sans;
+    color: #1B2734;
+    padding-left: 30px;
+    float: left;
+}
+
+.wholeProduct .productProcesses {
+    color: #1B2734;
+    font: italic normal normal 16px/22px Open Sans;
+    letter-spacing: 0.48px;
+    position: fixed;
+    left: 65vw;
+    opacity: 1;
+}
+
+.wholeProduct .productPriceDetails {
+    font: normal normal 600 16px/22px Open Sans;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+    position: fixed;
+    left: 90vw;
+}
+
+.wholeProduct .productTotalPrice {
+    float: right;
+    padding-right: 40px;
+    color: #5861AE;
+    font: normal normal bold 18px/24px Open Sans;
+}
+
+.subTotalp {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.subTotal {
+    padding-right: 30px;
+    font: normal normal 700 16px/22px Open Sans;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+}
+
+.subtotalPrice {
+    font: normal normal 600 18px/24px Open Sans;
+    letter-spacing: 0.43px;
+    color: #272727;
+    opacity: 1;
+    padding-right: 20px;
+}
+
+.pickupCharges {
+    text-align: right;
+    padding-right: 40px;
+    letter-spacing: 0.43px;
+    color: #272727;
+    opacity: 1;
+}
+
+.totalprice {
+    background-color: #5861AE;
+    color: #FFFFFF;
+    text-align: right;
+    padding: 15px;
+    font-weight: 650;
+    letter-spacing: 0.43px;
+}
+
+.totalprice span {
+    padding-right: 40px;
+}
+
+.div-img {
+    border: 1px solid #E2E2E2;
+    border-top: none;
+}
+
+.div-img img {
+    width: 50vw;
+    height: 7vh;
+    padding: 0px 0 10px 0;
+}
+
+.div-orderDetails span {
+    float: left;
+    padding-left: 30px;
+    font-size: larger;
+    font-weight: 500;
+    color: #E2E2E2;
+}
+
+.div-address {
+    border-top: 1px solid #E2E2E2;
+}
+
+h4 {
+    text-align: left;
+}
+
+.div-span {
+    float: left;
+    border: 2px solid #5861AE;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+
+.modal-footer {
+    height: 5vh;
+    background-color: #F4F4F4;
+    color: black;
+}

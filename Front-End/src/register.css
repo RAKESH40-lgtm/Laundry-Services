@@ -1,0 +1,336 @@
+p
+{
+    color:red
+}
+#header
+{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: nowrap; */
+    /* align-content: space-between; */
+    justify-content: space-between;
+  
+}
+#home
+{
+    margin-left: 600px;
+}
+#Laundry
+{
+margin-left: 100px;    
+font: normal normal 900 30px/27px Avenir;
+letter-spacing: 1.8px;
+color: #5861AE;
+text-transform: uppercase;
+opacity: 1;
+}
+#home
+{
+    text-align: center;
+    font: normal normal normal 20px/19px Avenir;
+    letter-spacing: 1.05px;
+    color: #565657;
+    text-transform: capitalize;
+    opacity: 1;
+}
+#pricing
+{
+    text-align: center;
+    font: normal normal normal 20px/19px Avenir;
+    letter-spacing: 1.05px;
+    color: #565657;
+    text-transform: capitalize;
+    opacity: 1;
+}
+#career
+{
+text-align: center;
+font: normal normal normal 20px/19px Avenir;
+letter-spacing: 1.05px;
+color: #565657;
+text-transform: capitalize;
+opacity: 1;
+}
+#signin
+{
+    font: normal normal normal 20px/19px Avenir;
+background: #5861AE 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+margin-right: 10px;
+}
+#divd
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+#lan
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: -330px;
+    margin-top: 220px;
+    width: 300px;
+    height: 257px;
+}
+#le
+{
+font: normal normal 900 100px/120px Avenir;
+letter-spacing: 0px;
+color: #5861AE;
+text-transform: capitalize;
+opacity: 1;
+}
+#hr
+{
+    margin-right: -440px;
+}
+h6
+{
+    margin-left: 70px;
+    border-left: 2px solid #77838F;
+    height: 200px;
+}
+#register
+{
+margin-top: 30px;
+margin-right: 350px;
+width:100px;
+height:20px
+}
+text#reg {
+    font: normal normal medium 32px/60px Avenir;
+letter-spacing: 1.28px;
+color: #5861AE;
+text-transform: uppercase;
+opacity: 1;
+}
+#row1
+{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+#space
+{
+    margin-left: 70px;
+}
+#rt
+{
+    margin-top: 90px;
+}
+input
+{
+    border: none;
+    border-bottom: 2px solid rgb(184, 182, 182);
+}
+#check
+{
+    margin-top: 100px;
+    width:1000px
+}
+
+#agree
+{
+text-decoration: underline;
+font: normal normal normal 14px/20px Open Sans;
+letter-spacing: 0.49px;
+color: #5861AE;
+opacity: 1;
+}
+#about
+{
+    font: normal normal medium 18px/24px Avenir;
+letter-spacing: 0.18px;
+color: #182838;
+text-transform: uppercase;
+opacity: 1;
+}
+#hom
+{
+margin-left: 300px;    
+font: normal normal medium 16px/24px Avenir;
+letter-spacing: 0.18px;
+color: #182838;
+text-transform: uppercase;
+opacity: 1;
+}
+#prices
+{
+font: normal normal medium 16px/24px Avenir;
+letter-spacing: 0.16px;
+color: #182838;
+text-transform: uppercase;
+opacity: 1;
+}
+#careers
+{
+    font: normal normal medium 16px/24px Avenir;
+    letter-spacing: 0.16px;
+    color: #182838;
+    text-transform: uppercase;
+    opacity: 1;
+
+}
+#contact
+{
+font: normal normal medium 16px/24px Avenir;
+letter-spacing: 0.16px;
+color: #182838;
+text-transform: uppercase;
+opacity: 1;
+}
+#social
+{
+font: normal normal medium 18px/24px Avenir;
+letter-spacing: 0.18px;
+color: #182838;
+text-transform: uppercase;
+opacity: 1;
+}
+#refer
+{
+margin-left: 500px;
+font: normal normal 600 24px/26px Open Sans;
+letter-spacing: 0.96px;
+color: #5861AE;
+opacity: 1;
+}
+#terms
+{
+margin-left: 650px;    
+font: italic normal normal 10px/26px Open Sans;
+letter-spacing: 0.4px;
+color: #3D3D43;
+opacity: 1;
+}
+div#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#hro{
+    margin-top: 200px;
+    border: 1px solid #5861AE;
+}
+#sum
+{
+margin-top: 10px;
+margin-left: 220px;
+color: azure;    
+background: #5861AE 0% 0% no-repeat padding-box;
+border-radius: 4px;
+opacity: 1;
+}
+div#col1 {
+    display: flex;
+    flex-direction: column;
+}
+#l1
+{
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-bottom: 10px;
+    font: normal normal normal 14px/24px Avenir;
+letter-spacing: 0.14px;
+color: #182838;
+text-transform: capitalize;
+opacity: 1;
+}
+#l2
+{
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-bottom: 10px;font: normal normal normal 14px/24px Avenir;
+    letter-spacing: 0.14px;
+    color: #182838;
+    text-transform: capitalize;
+    opacity: 1;
+}
+#l3
+{
+    margin: 10px 0;
+    font: normal normal normal 14px/24px Avenir;
+letter-spacing: 0.14px;
+color: #182838;
+text-transform: capitalize;
+opacity: 1;
+}
+#l4
+{
+    margin: 10px 0;
+    text-align: left;
+font: normal normal normal 14px/24px Avenir;
+letter-spacing: 0.14px;
+color: #182838;
+text-transform: capitalize;
+opacity: 1;
+}
+#us
+{
+margin: 10px 0;
+font: normal normal normal 15px/20px Avenir;
+letter-spacing: 0.6px;
+color: #3D3D43;
+text-transform: capitalize;
+opacity: 1;
+}
+#ig
+{
+    margin-top: 10px;
+}
+#i1
+{
+    margin-right: 11px;
+}
+#i2
+{
+    margin-right: 11px;
+}
+co1
+{
+    display: flex;
+    flex-direction: row;
+}
+div#co2 {
+    position: absolute;
+    margin-left: 950px;
+    margin-top: 120px;
+}
+#e
+{
+    margin-top: 38px;
+}
+#fint
+{
+    position: absolute;
+    margin-left: 680px;
+    margin-top: 40px;
+}
+#last
+{
+font: normal normal medium 48px/60px Avenir;
+letter-spacing: 1.28px;
+color: #5861AE;
+text-transform: uppercase;
+opacity: 1;
+font-size: xx-large;
+}
+#foot
+{
+    text-align: center;
+background: #182838 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+height: 7   0px;
+}
+#final
+{
+    text-align: center;
+    color: azure;
+    font: normal normal normal 12px/24px Avenir;
+letter-spacing: 0.12px;
+color: #FFFFFF;
+opacity: 1;
+}

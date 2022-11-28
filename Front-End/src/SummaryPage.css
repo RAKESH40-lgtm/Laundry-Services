@@ -1,0 +1,263 @@
+#summaryBox{
+    
+  width: 1044px;
+  height: 931px;
+  top: 80%;
+  left: 61%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+#pop{
+    float: right;
+    top: 0px;
+    left: 514px;
+    width: 926px;
+    height: 90px;
+    background: #5861AE 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.sumHead{
+    background-color: #5861AE;
+  color: #FFFFFF;
+  width: 926px;
+    height: 48px;
+  display: flex;
+  justify-content: space-between;
+}
+.sumPara{
+    margin-left: 10px;
+  font: normal normal 600 22px/20px Open Sans;
+}
+.closeX{
+    margin: 10px;
+  border: none;
+  background-color: #5861AE;
+  color: #FFFFFF;
+}
+.storeLoc{
+    display: flex;
+    height: 80px;
+    margin-top: 2px;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    background: #F4F9FF 0% 0% no-repeat padding-box;
+}
+.prodOrder{
+    border-bottom: 2px solid rgb(197, 196, 196);
+  height: 250px;
+  margin-top: -21px;
+  background-color: #FFFFFF;
+}
+.ordPara{
+    padding-top: 25px;
+  margin-left: 20px;
+}
+#prodOrderInfo{
+    width: 93%;
+  margin-left: 30px;
+}
+.buttons{
+    margin-top: 6px;
+  background-color: rgb(131, 130, 130);
+  /* margin-top: 60%;*/
+  background: #F4F4F4 0% 0% no-repeat padding-box;
+  box-shadow: 0px -3px 6px #00000015;
+  opacity: 1;
+  height: 27px; 
+}
+.confirmButton{
+    margin-left: 1rem;
+    padding: 0.25rem 1rem;
+    border: 2px solid #5861AE;
+    border-radius: 4px;
+    color: #5861AE;
+    background-color: white;
+    float: right;
+    margin: 0px;
+}
+.addresscontain{
+    
+  margin-left: 25px;
+  display: flex;
+  justify-content: space-between;
+  width: 390px;
+  height: 90px;
+  border-radius: 4%;
+}
+.homeadd{
+  border:2px solid #5861AE;
+    display: flex;
+  justify-content: space-between;
+  margin: 2px;
+}
+#prodCart{
+    display: flex;
+}
+.userAddress{
+    margin-top: -60px;
+    height: 350px;
+    background-color: #FFFFFF;
+  }
+  #useAddress{
+    padding-top: 25px;
+    margin-left: 20px;
+  }
+  .addU{
+    margin-top: 17px;
+    margin-left: -63px;;
+  }
+  img{
+    width: 24px;
+    height: 17px;
+  }
+  .other{
+    border:2px solid #5861AE;
+  }
+.prodOrder{
+    border-bottom: 2px solid rgb(197, 196, 196);
+  height: 400px;
+  background-color: #FFFFFF;
+}
+.ordPara{
+    padding-top: 25px;
+  margin-left: 20px;
+}
+#prodOrderInfo{
+    width: 93%;
+  margin-left: 30px;
+}
+.prodType{
+    margin-left: 20px;
+  padding: 15px;
+  text-align: left;
+  font: normal normal normal 18px/24px Open Sans;
+  font-family: sans-serif;
+  letter-spacing: 0.43px;
+  color: #1B2734;
+  opacity: 1;
+}
+.washType{
+    padding: 15px;
+  text-align: left;
+  text-align: left;
+  font: italic normal normal 18px/25px Open ;
+  font-family: sans-serif;
+  letter-spacing: 0.38px;
+  color: #1B2734;
+  opacity: 1;
+}
+.prodPrice{
+    text-align: left;
+  font: normal normal 600 18px/25px Open Sans;
+  font-family: sans-serif;
+  letter-spacing: 5px;
+  color: #1B2734;
+  opacity: 1;
+}
+.pricetype{
+    text-align: left;
+    font: normal normal 600 18px/25px Open Sans;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    color: #1B2734;
+    opacity: 1;
+}
+.prodTotalVal{
+    top: 233px;
+  left: 1320px;
+  width: 35px;
+  height: 27px;
+  margin-left: 20px;
+  text-align: left;
+  font: normal normal 600 20px/27px Open Sans;
+  font-family: sans-serif;
+  letter-spacing: 0.48px;
+  color: #5861AE;
+  opacity: 1;
+}
+#prodPriceTot{
+    display: block;
+}
+.total{
+    display: flex;
+  float: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: 100px;
+  text-align: left;
+  font: normal normal normal 18px/25px Open ;
+  font-family: sans-serif;
+  letter-spacing: 0.38px;
+  color: #1B2734;
+  opacity: 1;
+  border-bottom: 2px solid rgb(214, 212, 212);
+}
+.val{
+    margin-left: 20px;
+  text-align: left;
+  font: normal normal 600 20px/28px Open Sans;
+  font-family: sans-serif;
+  letter-spacing: 0.43px;
+  color: #272727;
+  opacity: 1;
+}
+.pickUp{
+    display: flex;
+    float: right;
+    margin-top: 40px;
+    padding-top: 17px;
+    margin-right: -130px;
+    text-align: left;
+    font: normal normal normal 18px/25px Open ;
+    font-family: sans-serif;
+    letter-spacing: 0.38px;
+    color: #1B2734;
+    opacity: 1;
+    border-bottom: 2px solid rgb(214, 212, 212);
+}
+.pickUpVal{
+    margin-left: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+  font: normal normal 600 20px/28px Open Sans;
+  font-family: sans-serif;
+  letter-spacing: 0.43px;
+  color: #272727;
+  opacity: 1;
+}
+#allTotalAmt{
+    float: right;
+  display: flex;
+  margin-left: 300px;
+  margin-right: 40px;
+  width: 848px;
+  height: 49px;
+  background: #5861AE 0% 0% no-repeat padding-box;
+  opacity: 1;
+  margin-left: 30px;
+  font: normal normal bold 18px/24px Open Sans;
+  font-family: sans-serif;
+  letter-spacing: 0.43px;
+  color: #FFFFFF;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.allAmnt{
+    padding-top: 10px;
+  float: right;
+  padding-left: 670px;
+}
+.allTotalVal{
+    padding-top: 10px;
+    padding-left: 40px;
+}
+#prodCart{
+    display: flex;
+  border-bottom: 1px solid gray;
+}
+.prodType,.washType,.prodPriceType{
+    width: 50%;
+}
+.prodPriceType{
+    display: flex;
+  }
