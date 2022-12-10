@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+/* body{
+    position:absolute;
+  } */
+h3{
+  margin: 1rem 2rem;
+}
+#prodHead {
+  top: 176px;
+  left: 108px;
+  width: 1295px;
+  height: 50px;
+  /* UI Properties */
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  /* border: 1px solid #E0E0E0; */
+  border-radius: 2px;
+  opacity: 1;
+  float: right;
+  margin: 4rem -3rem;
+
+
+}
+
+#headItem {
+  border: 1px solid black;
+  background-color: #2F2F2F;
+  color: #FFFFFF;
+  width: 90%;
+  height: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: -4px;
+  margin-left: 124px;
+}
+
+#productRow {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border: 1px solid rgba(112, 112, 112, 0.2);
+  border-top: none;
+  width: 70em;
+  height: 4em;
+  margin-left: 124px;
+}
+
+.productType {
+  display: flex;
+  width: 50%;
+}
+
+.prodImg {
+  width: 45px;
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#item1,
+.imageDivision {
+  width: 21%;
+}
+
+#item2 {
+  width: 21%;
+}
+
+#item3 {
+  width: 37%;
+}
+
+#item4,
+.price {
+  width: 21%;
+}
+
+.prodQuant {
+  width: 17%;
+}
+
+.quantnum {
+  display: flex;
+  width: 40%;
+  height: 2%;
+  margin-right: 149px;
+  border: 1px solid #5861AE;
+  border-radius: 2px;
+}
+
+.quantVal {
+  position: relative;
+  bottom: 10px;
+  text-align: center;
+  border: none;
+  width: 80%;
+  height: 75%;
+  margin-top: 13px;
+  margin-right: 10px;
+}
+
+.washTypes {
+  width: 58%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 394px;
+}
+
+.washImg {
+  height: 50%;
+}
+
+#price {
+  margin-right: 2px;
+}
+
+#prodPrice {
+  width: 75px;
+  height: 24px;
+  display: flex;
+}
+
+.itemForEach {
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+.priceVal {
+  font-weight: bold;
+  padding-left: 5px;
+  color: #5861AE;
+}
+
+.resetVal {
+  border: 1px solid #5861AE;
+  background-color: #FFFFFF;
+  color: #0e0e0f;
+  padding: 5px 15px;
+  margin-left: 10px;
+  border-radius: 20px;
+}
+
+.resetVal:hover {
+  background-color: #5861AE;
+}
+
+.buttons {
+  display: flex;
+  justify-content: end;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+.funcbutton {
+  margin-left: 1rem;
+  padding: 0.25rem 1rem;
+  border: 2px solid #5861AE;
+  border-radius: 4px;
+  color: #5861AE;
+  background-color: white;
+}
+
+.funcbutton:hover {
+  background-color: #5861AE;
+  color: white;
+}
